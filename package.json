@@ -13,6 +13,7 @@
     "dotenv": "^8.2.0",
     "framer-motion": "^3.3.0-beta.22",
     "globby": "^11.0.2",
+    "init": "^0.1.2",
     "isomorphic-unfetch": "^3.1.0",
     "next": "^10.0.6",
     "next-compose-plugins": "^2.2.1",
@@ -26,6 +27,7 @@
     "react-scroll": "^1.8.1",
     "react-slick": "^0.28.0",
     "react-stickynode": "^3.0.4",
+    "sanity": "^2.2.6",
     "theme-ui": "^0.3.5"
   },
   "devDependencies": {
